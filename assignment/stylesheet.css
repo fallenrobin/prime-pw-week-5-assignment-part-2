@@ -1,0 +1,20 @@
+.bigTitle {
+  background:#734656;
+  color:#f29544;
+}
+.blurb {
+  background: #aca19d;
+  color: #1b1626;
+  padding: 1em;
+}
+.wholePage {
+  background-image: url(record.png);
+  background-color: #2a2640;
+  background-repeat: repeat;
+}
+.questions {
+  color:#f29544;
+}
+body {
+    margin: 0;
+}
