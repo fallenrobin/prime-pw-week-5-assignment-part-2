@@ -1,3 +1,13 @@
+html {
+  /* height: 100%; */
+}
+body {
+    margin: 0;
+    /* height: 100%; */
+    background-image: url(record.png);
+    background-color: #2a2640;
+}
+
 .bigTitle {
   background:#734656;
   color:#f29544;
@@ -7,14 +17,11 @@
   color: #1b1626;
   padding: 1em;
 }
+
 .wholePage {
-  background-image: url(record.png);
-  background-color: #2a2640;
-  background-repeat: repeat;
+/* hm I didn't figure out how to make the background fill the whole page */
 }
+
 .questions {
   color:#f29544;
-}
-body {
-    margin: 0;
 }
